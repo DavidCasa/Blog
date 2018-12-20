@@ -25,7 +25,7 @@ SECRET_KEY = 'ge56lkst9$-tc3)=fswo553dqyxg(gk6xkm-zvg*l$8t(^-unt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'leaguelomap.pythonanywhere.com']
 
 
 # Application definition
